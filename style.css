@@ -40,7 +40,7 @@ a {
 
 .main-nav {
     background: #080808;
-    padding:1rem;
+    padding: 0rem 1rem;
     top:0;
     left:0;
     position: fixed;
@@ -342,7 +342,7 @@ form textarea {
     }
     .main-nav-items li, .main-nav-items i, .toggle{
         display: block;
-        margin: 0rem 1rem;
+        margin: 1rem;
         cursor: pointer;
     }
 
