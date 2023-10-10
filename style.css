@@ -48,6 +48,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    min-height: 4.5rem;
 }
 
 .main-nav-items i,
@@ -341,7 +342,7 @@ form textarea {
     }
     .main-nav-items li, .main-nav-items i, .toggle{
         display: block;
-        margin: 1rem;
+        margin: 0rem 1rem;
         cursor: pointer;
     }
 
