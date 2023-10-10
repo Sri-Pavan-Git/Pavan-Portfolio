@@ -40,7 +40,7 @@ a {
 
 .main-nav {
     background: #080808;
-    padding: 0rem 1rem;
+    padding:1rem;
     top:0;
     left:0;
     position: fixed;
@@ -48,7 +48,6 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    min-height: 4.5rem;
 }
 
 .main-nav-items i,
