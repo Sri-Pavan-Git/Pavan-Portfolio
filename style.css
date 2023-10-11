@@ -278,6 +278,30 @@ form textarea {
     border-radius: 5px;
 }
 
+/* ---------------------------foooter----------------------------- */
+footer{
+    position: fixed;
+    bottom:0;
+    left:0;
+    padding:1rem;
+    background:#2e2c2c;
+    width:100%;
+    text-align: center;
+    letter-spacing:0.2rem;
+}
+.footer-line{
+    color:#a2a2a2;
+    font-weight: 600;
+}
+.footer-line i{
+    color:#ef4141;
+}
+.footer-line .logo{
+    font-family: 'Croissant One', cursive;
+    font-size: medium;
+    Color: #ffffff;
+}
+
 /* -----------------------Small Screens-------------------------- */
 
 @media (max-width:640px) {
